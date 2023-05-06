@@ -9,6 +9,3 @@ after each round
 
 ![Screenshot 2022-07-26 180306](https://user-images.githubusercontent.com/92885872/181054884-7420a2e8-a177-4bf3-b145-4136d6d39563.png)
 
-# Acknowledgements
-- [Dr. Mostafa Saad](https://www.udemy.com/course/cpp-4skills/).
-
